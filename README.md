@@ -1,1 +1,2 @@
-# cnn-cifar10
+# CIFAR-10 
+Experiments with various custom and pretrained CNN architectures, optimizers, learning rates, and transfer learning. 
